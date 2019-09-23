@@ -1,0 +1,112 @@
+@font-face{
+   src:url(Quote/Aemstel-Regular.ttf);
+   font-family: Aemstel;
+}
+
+@font-face {
+  src: url("LineInside.ttf");
+  font-family: Line Inside;
+}
+
+html{
+background: url('../quote/newsun.jpg') no-repeat center center fixed;
+background-size: cover;
+ height: 100%;
+ overflow: auto;
+ padding:
+}
+
+
+h1{
+  font-family: Aemstel;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+}
+
+h2{
+  font-family: Line Inside;
+  text-align: center;
+  font-size: 12px;
+  color:white;
+  line-height: 15px;
+  word-spacing: 2px;
+  letter-spacing: 3px;
+  padding: 0px;
+  margin: 0px;
+}
+
+#ombre{
+  font-family: Aemstel;
+  font-size: 37px;
+  background: -webkit-linear-gradient(#f97748, #66220c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  }
+h3{
+  text-align: center;
+  font-family: Aemstel;
+  font-size: 17px;
+  color:white;
+  line-height: 30px;
+  letter-spacing: 5px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.gradient{
+  font-family: Line Inside;
+  text-align: center;
+  font-size: 40px;
+  background: -webkit-linear-gradient(#f97748, #66220c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding: 0px;
+  margin: 0px;
+}
+
+.textleft{
+  font-family: Aemstel;
+  font-size: 17px;
+  color:white;
+  padding-left: 450px;
+}
+
+.textright{
+  font-family: Aemstel;
+  font-size: 17px;
+  color:white;
+  text-align: right;
+  padding-right: 430px;
+
+}
+
+.textcenter{
+  font-family: Aemstel;
+  font-size: 17px;
+  color:white;
+  text-align: center;
+}
+
+.outlinetext {
+font-family: Line Inside;
+font-size: 17px;
+color:white;
+}
+
+
+.textombre{
+  font-family: Line Inside;
+  text-align: center;
+  font-size: 40px;
+  background: -webkit-linear-gradient(#f97748, #66220c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding: 0px;
+  margin: 0px;
+}
+
+.footer{
+  color:white;
+  text-align: center;
+}
